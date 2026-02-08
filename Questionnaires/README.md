@@ -1,4 +1,4 @@
-# Thesis Questionnaires
+# Thesis > Questionnaires
 
 This repository contains all online questionnaires used in my Master's thesis research.  
 All questionnaires are equally important and belong to different domains of the study.

@@ -1,5 +1,7 @@
-# Thesis Main Page
+# Thesis
 
 ## [Questionnaires](https://sahard96.github.io/Thesis/Questionnaires/)
 
-## [Chats](https://sahard96.github.io/Thesis/Chats/)
+## [ChatGPT Chat Histories](https://sahard96.github.io/Thesis/Chats/)
+
+## [Other Models](https://sahard96.github.io/Thesis/Other%20Models/)

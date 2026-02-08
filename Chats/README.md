@@ -1,15 +1,18 @@
-# Chats
+\# Thesis > ChatGPT Chat Histories
 
-## [ChatGPT](https://sahard96.github.io/Thesis/Chats/ChatGPT.html)
 
-## [Claude](https://sahard96.github.io/Thesis/Chats/Claude.html)
 
-## [Deepseek](https://sahard96.github.io/Thesis/Chats/Deepseek.html)
+\## \[Biology](https://sahard96.github.io/Thesis/Chats/biology.md)
 
-## [Preplexity](https://sahard96.github.io/Thesis/Chats/Preplexity.html)
 
-## [Qwen](https://sahard96.github.io/Thesis/Chats/Qwen%203%20Max.html)
 
-## [Grok](https://sahard96.github.io/Thesis/Chats/Grok.html)
+\## \[Computer](https://sahard96.github.io/Thesis/Chats/computer.md)
 
-## [Gemini](https://sahard96.github.io/Thesis/Chats/Gemini.html)
+
+
+\## \[Linguistic](https://sahard96.github.io/Thesis/Chats/linguistics.md)
+
+
+
+\## \[Psychology](https://sahard96.github.io/Thesis/Chats/psychology.md)
+

@@ -6,7 +6,7 @@
 
 ## [Deepseek](https://sahard96.github.io/Thesis/Other%20Models/Deepseek.html)
 
-## [Preplexity](https://sahard96.github.io/Thesis/Other%20Models/Preplexity.html)
+## [Perplexity](https://sahard96.github.io/Thesis/Other%20Models/Perplexity.html)
 
 ## [Qwen](https://sahard96.github.io/Thesis/Other%20Models/Qwen%203%20Max.html)
 

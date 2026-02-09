@@ -1,9 +1,9 @@
 # Thesis > ChatGPT Chat Histories
 
-## [Biology](https://sahard96.github.io/Thesis/Chats/biology.md)
+## [Biology](https://sahard96.github.io/Thesis/Chats/Biology/)
 
-## [Computer](https://sahard96.github.io/Thesis/Chats/computer.md)
+## [Computer](https://sahard96.github.io/Thesis/Chats/Computer/)
 
-## [Linguistic](https://sahard96.github.io/Thesis/Chats/linguistics.md)
+## [Linguistic](https://sahard96.github.io/Thesis/Chats/Linguistics/)
 
-## [Psychology](https://sahard96.github.io/Thesis/Chats/psychology.md)
+## [Psychology](https://sahard96.github.io/Thesis/Chats/Psychology/)
